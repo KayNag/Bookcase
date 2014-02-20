@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <kay.zentity.bookshelf.tasks.Rowcanvas xmlns:android="http://schemas.android.com/apk/res/android" 
+   	android:id="@+id/gridViewbase"
+   	 	android:layout_width="fill_parent"
+   	android:layout_height="fill_parent"   	
+    android:numColumns="2"
+    android:columnWidth="100dp"
+    android:stretchMode="spacingWidthUniform"
+   	
+   	android:drawSelectorOnTop="false"
+   	>
+</kay.zentity.bookshelf.tasks.Rowcanvas>
+
+

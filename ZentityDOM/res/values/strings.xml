@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Zentity</string>
+	<string name="looking_for_books">Please , Wait . Populating Books</string>
+	<string name="no_books">No Books Found</string>
+</resources>
